@@ -25,6 +25,7 @@ git clone https://github.com/mishoops/interactsh-web.git
 
 Edit URL values in following files
 ```console
+   CNAME
    src/components/customHost/index.tsx
    src/lib/localStorage/index.ts
    src/pages/homePage/index.tsx
